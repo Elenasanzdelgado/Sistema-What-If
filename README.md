@@ -14,7 +14,7 @@ El proyecto ha sido desarrollado y probado en Google Colab.
 
 ## Dataset
 
-El dataset utilizado para los experimentos se encuentra en la carpeta `data/`.
+El dataset utilizado para los experimentos se encuentra en la carpeta zip `TON_IoT.zip`.
 
 ## Escenarios implementados
 
